@@ -1,0 +1,72 @@
+{
+  "uuid": "9e1d7f39-7fff-4c4a-aa11-6f9d6b0842b9-tr-0-1001",
+  "historyId": "NUnitTests.TestCases.CheckSearchFunctionality",
+  "fullName": "NUnitTests.TestCases.CheckSearchFunctionality",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-C9V63L0"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitTests.TestCases"
+    },
+    {
+      "name": "testMethod",
+      "value": "CheckSearchFunctionality"
+    },
+    {
+      "name": "package",
+      "value": "NUnitTests.TestCases"
+    },
+    {
+      "name": "tag",
+      "value": "Search"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    }
+  ],
+  "links": [],
+  "name": "CheckSearchFunctionality",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Check search functionality\n",
+  "steps": [
+    {
+      "name": "CheckSearchFunctionality",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "da03f58afca04035971e2d79712bc2bf-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1612545137924,
+      "stop": 1612545153696
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1612545137924,
+  "stop": 1612545153700
+}

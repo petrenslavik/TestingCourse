@@ -1,0 +1,59 @@
+{
+  "uuid": "ca24c7be-a789-49d6-8974-c49319ddb6e4-tc-0-1000",
+  "name": "NUnitTests.TestCases.AddToBasketFromListPage",
+  "children": [
+    "b6b6a3ce-8d02-4206-a1ee-66dc4954625d-tr-0-1002"
+  ],
+  "befores": [
+    {
+      "name": "Init",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1612544940077,
+      "stop": 1612544940077
+    },
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1612544940077,
+      "stop": 1612544940077
+    }
+  ],
+  "afters": [
+    {
+      "name": "TearDown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1612544940077,
+      "stop": 1612544940077
+    }
+  ],
+  "links": [],
+  "start": 1612544907851,
+  "stop": 1612544940084
+}

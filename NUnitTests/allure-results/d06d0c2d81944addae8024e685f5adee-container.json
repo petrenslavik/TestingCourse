@@ -1,0 +1,59 @@
+{
+  "uuid": "2bf96ae3-18ec-45c1-9243-641cf5d0cadf-tc-0-1000",
+  "name": "NUnitTests.TestCases.CheckLogin",
+  "children": [
+    "0ae15762-9383-41bb-956b-1f0de8d6c81f-tr-0-1007"
+  ],
+  "befores": [
+    {
+      "name": "Init",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1612544981084,
+      "stop": 1612544981084
+    },
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1612544981084,
+      "stop": 1612544981084
+    }
+  ],
+  "afters": [
+    {
+      "name": "TearDown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1612544981084,
+      "stop": 1612544981084
+    }
+  ],
+  "links": [],
+  "start": 1612544962055,
+  "stop": 1612544981089
+}

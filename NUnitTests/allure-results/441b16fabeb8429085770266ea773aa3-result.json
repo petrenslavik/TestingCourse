@@ -1,0 +1,72 @@
+{
+  "uuid": "89c1148e-21eb-4fe3-b0af-416b0548eafc-tr-0-1005",
+  "historyId": "NUnitTests.TestCases.LastViewedProducts",
+  "fullName": "NUnitTests.TestCases.LastViewedProducts",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-C9V63L0"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitTests.TestCases"
+    },
+    {
+      "name": "testMethod",
+      "value": "LastViewedProducts"
+    },
+    {
+      "name": "package",
+      "value": "NUnitTests.TestCases"
+    },
+    {
+      "name": "tag",
+      "value": "Products"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    }
+  ],
+  "links": [],
+  "name": "LastViewedProducts",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Checking the correct storage of products in the last viewed section\n",
+  "steps": [
+    {
+      "name": "LastViewedProducts",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "19006942b3134c88af62a67a9fb07072-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1612545082423,
+      "stop": 1612545129992
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1612545082423,
+  "stop": 1612545129993
+}

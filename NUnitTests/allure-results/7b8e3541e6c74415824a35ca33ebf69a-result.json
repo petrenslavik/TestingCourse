@@ -1,0 +1,72 @@
+{
+  "uuid": "67505d3e-881d-4fa6-909f-f950412a7358-tr-0-1004",
+  "historyId": "NUnitTests.TestCases.AddToWishlistFromDetailsPage",
+  "fullName": "NUnitTests.TestCases.AddToWishlistFromDetailsPage",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-C9V63L0"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitTests.TestCases"
+    },
+    {
+      "name": "testMethod",
+      "value": "AddToWishlistFromDetailsPage"
+    },
+    {
+      "name": "package",
+      "value": "NUnitTests.TestCases"
+    },
+    {
+      "name": "tag",
+      "value": "Wishlist"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    }
+  ],
+  "links": [],
+  "name": "AddToWishlistFromDetailsPage",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Checking that users can add products to the wishlist\n",
+  "steps": [
+    {
+      "name": "AddToWishlistFromDetailsPage",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "5e43ba1ff7054fa284a18539a7c37daa-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1612544940090,
+      "stop": 1612544962044
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1612544940090,
+  "stop": 1612544962044
+}

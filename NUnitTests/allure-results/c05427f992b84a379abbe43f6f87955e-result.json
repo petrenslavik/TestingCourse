@@ -1,0 +1,72 @@
+{
+  "uuid": "5d21307d-2a97-4777-8657-188d1fbb922f-tr-0-1009",
+  "historyId": "NUnitTests.TestCases.DeleteFromBasket",
+  "fullName": "NUnitTests.TestCases.DeleteFromBasket",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-C9V63L0"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitTests.TestCases"
+    },
+    {
+      "name": "testMethod",
+      "value": "DeleteFromBasket"
+    },
+    {
+      "name": "package",
+      "value": "NUnitTests.TestCases"
+    },
+    {
+      "name": "tag",
+      "value": "Basket"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    }
+  ],
+  "links": [],
+  "name": "DeleteFromBasket",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Checking that users can delete products from the basket\n",
+  "steps": [
+    {
+      "name": "DeleteFromBasket",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "f5a226407aae4e45b3335dae34aa44ba-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1612545159020,
+      "stop": 1612545178560
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1612545159020,
+  "stop": 1612545178565
+}

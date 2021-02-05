@@ -1,0 +1,72 @@
+{
+  "uuid": "8885cba1-fc4e-47d2-8256-12c1f2af8f04-tr-0-1006",
+  "historyId": "NUnitTests.TestCases.FilteringProducts",
+  "fullName": "NUnitTests.TestCases.FilteringProducts",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-C9V63L0"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitTests.TestCases"
+    },
+    {
+      "name": "testMethod",
+      "value": "FilteringProducts"
+    },
+    {
+      "name": "package",
+      "value": "NUnitTests.TestCases"
+    },
+    {
+      "name": "tag",
+      "value": "Filters"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    }
+  ],
+  "links": [],
+  "name": "FilteringProducts",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Сheck filters functionality works properly\n",
+  "steps": [
+    {
+      "name": "FilteringProducts",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "64bc4476a2094f63b7c7d10f6653ee8f-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1612545052738,
+      "stop": 1612545082413
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1612545052738,
+  "stop": 1612545082413
+}

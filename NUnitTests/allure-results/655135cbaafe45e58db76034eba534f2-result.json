@@ -1,0 +1,72 @@
+{
+  "uuid": "b6b6a3ce-8d02-4206-a1ee-66dc4954625d-tr-0-1002",
+  "historyId": "NUnitTests.TestCases.AddToBasketFromListPage",
+  "fullName": "NUnitTests.TestCases.AddToBasketFromListPage",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-C9V63L0"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitTests.TestCases"
+    },
+    {
+      "name": "testMethod",
+      "value": "AddToBasketFromListPage"
+    },
+    {
+      "name": "package",
+      "value": "NUnitTests.TestCases"
+    },
+    {
+      "name": "tag",
+      "value": "Basket"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    }
+  ],
+  "links": [],
+  "name": "AddToBasketFromListPage",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Checking that users can add a products to the basket from the list page\n",
+  "steps": [
+    {
+      "name": "AddToBasketFromListPage",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "ecc60e9c647f4dbcbf99719d816d93c4-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1612544907851,
+      "stop": 1612544940077
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1612544907851,
+  "stop": 1612544940078
+}

@@ -1,0 +1,81 @@
+{
+  "uuid": "4533f38f-41d5-4f68-b07b-16723a9006d8-tr-0-1009",
+  "historyId": "NUnitTests.TestCases.DeleteFromBasket",
+  "fullName": "NUnitTests.TestCases.DeleteFromBasket",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-C9V63L0"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitTests.TestCases"
+    },
+    {
+      "name": "testMethod",
+      "value": "DeleteFromBasket"
+    },
+    {
+      "name": "package",
+      "value": "NUnitTests.TestCases"
+    },
+    {
+      "name": "tag",
+      "value": "Basket"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    }
+  ],
+  "links": [],
+  "name": "DeleteFromBasket",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected: True\r\n  But was:  False\r\n",
+    "trace": "   at NUnitTests.TestCases.DeleteFromBasket() in E:\\University\\SoftwareTesting\\Lab3\\NUnitTests\\NUnitTests\\TestCases.cs:line 157\r\n"
+  },
+  "stage": "finished",
+  "description": "Checking that users can delete products from the basket\n",
+  "steps": [
+    {
+      "name": "DeleteFromBasket",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  Expected: True\r\n  But was:  False\r\n",
+        "trace": "   at NUnitTests.TestCases.DeleteFromBasket() in E:\\University\\SoftwareTesting\\Lab3\\NUnitTests\\NUnitTests\\TestCases.cs:line 157\r\n"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "results2021-02-05_19-10-47.64754.png",
+          "source": "b2b0dddc8fdf4dc2a1d4e9f646f39f27-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Console Output",
+          "source": "a32998e663a34e6cb9a2693bb21805bf-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1612545014365,
+      "stop": 1612545052727
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1612545014365,
+  "stop": 1612545052727
+}

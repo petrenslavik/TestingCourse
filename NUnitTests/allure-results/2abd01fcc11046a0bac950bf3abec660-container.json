@@ -1,0 +1,59 @@
+{
+  "uuid": "046badf8-d74d-4287-85dd-01fddbed460e-tc-0-1000",
+  "name": "NUnitTests.TestCases.FilteringProducts",
+  "children": [
+    "8885cba1-fc4e-47d2-8256-12c1f2af8f04-tr-0-1006"
+  ],
+  "befores": [
+    {
+      "name": "Init",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1612545082412,
+      "stop": 1612545082412
+    },
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1612545082412,
+      "stop": 1612545082412
+    }
+  ],
+  "afters": [
+    {
+      "name": "TearDown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1612545082412,
+      "stop": 1612545082412
+    }
+  ],
+  "links": [],
+  "start": 1612545052738,
+  "stop": 1612545082419
+}

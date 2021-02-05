@@ -1,0 +1,59 @@
+{
+  "uuid": "9598e59f-08a5-4379-8fb5-514843fd7d85-tc-0-1000",
+  "name": "NUnitTests.TestCases.AddToWishlistFromDetailsPage",
+  "children": [
+    "67505d3e-881d-4fa6-909f-f950412a7358-tr-0-1004"
+  ],
+  "befores": [
+    {
+      "name": "Init",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1612544962043,
+      "stop": 1612544962043
+    },
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1612544962044,
+      "stop": 1612544962044
+    }
+  ],
+  "afters": [
+    {
+      "name": "TearDown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1612544962044,
+      "stop": 1612544962044
+    }
+  ],
+  "links": [],
+  "start": 1612544940090,
+  "stop": 1612544962049
+}
